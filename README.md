@@ -42,6 +42,6 @@
 </center>
 
 <center>
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/johnkoder"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="johnkoder" /></a></p><br><br>
+<h3>Support:</h3>
+<a href="https://www.buymeacoffee.com/johnkoder"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="johnkoder" /></a>
   </center>
