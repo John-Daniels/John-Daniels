@@ -37,12 +37,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-daniels&show_icons=true&locale=en&layout=compact" alt="john-daniels" /></p>
 
 <center>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=john-daniels&show_icons=true&locale=en" alt="john-daniels" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=john-daniels&" alt="john-daniels" /></p>
-  </center>
+  <img src="https://github-readme-stats.vercel.app/api?username=john-daniels&show_icons=true&locale=en" alt="john-daniels" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=john-daniels&" alt="john-daniels" />
+</center>
 
 <center>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/johnkoder"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="johnkoder" /></a></p><br><br>
+<h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/johnkoder"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="johnkoder" /></a></p><br><br>
   </center>
