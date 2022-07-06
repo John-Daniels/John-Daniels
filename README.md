@@ -39,6 +39,8 @@
 <center>
   <img src="https://github-readme-stats.vercel.app/api?username=john-daniels&show_icons=true&locale=en" alt="john-daniels" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=john-daniels&" alt="john-daniels" />
+    [![John's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cybergenie&layout=compact&theme=solarized-light&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </center>
 
 <center>
