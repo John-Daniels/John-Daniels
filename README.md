@@ -3,7 +3,8 @@
 [![MasterHead](https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif)](https://github.com/John-Daniels) -->
 
 <img
-style="width: 100%; aspect-ratio: 16/7;object-fit:cover; border-radius: 10px"
+width="100%"
+style="aspect-ratio: 16/7;object-fit:cover; border-radius: 10px"
  src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif">
 
 <!-- https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif -->
@@ -45,9 +46,9 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p></p>
 
 <center>
-  <img style="width: 80%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-daniels&show_icons=true&locale=en&layout=compact" alt="john-daniels" />
-  <img style="width: 80%;" src="https://github-readme-stats.vercel.app/api?username=john-daniels&show_icons=true&locale=en" alt="john-daniels" />
-  <img style="width: 80%;" src="https://github-readme-streak-stats.herokuapp.com/?user=john-daniels&" alt="john-daniels" />
+  <img style="width: 60%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-daniels&show_icons=true&locale=en&layout=compact" alt="john-daniels" />
+  <img style="width: 60%;" src="https://github-readme-stats.vercel.app/api?username=john-daniels&show_icons=true&locale=en" alt="john-daniels" />
+  <img style="width: 60%;" src="https://github-readme-streak-stats.herokuapp.com/?user=john-daniels&" alt="john-daniels" />
 </center>
 
 <center>
