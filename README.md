@@ -1,11 +1,11 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/John-Daniels) -->
-<!--
-[![MasterHead](https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif)](https://github.com/John-Daniels) -->
 
-<img
+[![MasterHead](https://cdn.techjuice.pk/wp-content/uploads/2020/06/zjseb2fe4gFpkmhoYhTkgQ-1.jpg)](https://github.com/John-Daniels)
+
+<!-- <img
 width="100%"
 style="aspect-ratio: 16/7;object-fit:cover; border-radius: 10px"
- src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif">
+ src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif"> -->
 
 <!-- https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif -->
 
