@@ -35,11 +35,12 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/johndaniels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="johndaniels" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/johndcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johndcoder" height="30" width="40" /></a>
-<a href="https://codesandbox.com/john-daniels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="john-daniels" height="30" width="40" /></a>
-<a href="https://fb.com/johndcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johndcoder" height="30" width="40" /></a>
-<a href="https://instagram.com/johndkoder.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johndkoder.js" height="30" width="40" /></a>
+<a href="https://dev.to/johndaniels" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="johndaniels" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/johndcoder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johndcoder" height="30" width="40" /></a>
+<a href="https://codesandbox.com/john-daniels" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="john-daniels" height="30" width="40" /></a>
+<a href="https://fb.com/johndcoder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="johndcoder" height="30" width="40" /></a>
+<a href="https://instagram.com/johndkoder.js" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johndkoder.js" height="30" width="40" /></a>
+<a href="https://twitter.com/johnkoder" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnkoder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
