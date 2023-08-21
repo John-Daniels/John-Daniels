@@ -21,7 +21,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Chat-app](https://github.com/John-Daniels/bulb-chat)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Flutter, React and Node Projects**
 
