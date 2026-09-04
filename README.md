@@ -12,7 +12,7 @@ style="aspect-ratio: 16/7;object-fit:cover; border-radius: 10px"
 <!-- https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif -->
 
 <h1 align="center">Hi 👋, I'm John Daniels</h1>
-<h3 align="center">A Fullstack dev from Nigeria</h3>
+<!-- <h3 align="center">A Fullstack dev from Nigeria</h3> -->
 <img align="right" alt="Coding" width="350"
 style="border-radius: 10px; margin-left: 20px;"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
